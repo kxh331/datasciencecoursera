@@ -1,1 +1,1 @@
-"## This is a markdown file.xxx"
+"## This is a markdown file"
